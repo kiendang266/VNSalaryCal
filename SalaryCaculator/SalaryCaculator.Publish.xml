@@ -1,0 +1,76 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\Kien Dang\Desktop\salary\">
+    <file relUrl="js/borderMenu.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="fonts/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" publishTime="08/26/2014 17:46:50" />
+    <file relUrl="bin/SalaryCaculator.dll" publishTime="01/30/2017 14:20:23" />
+    <file relUrl="fonts/nlicons/nlicons.svg" publishTime="05/21/2013 16:15:48" />
+    <file relUrl="fonts/demoicons/FontAwesome.dev.svg" publishTime="09/29/2013 22:32:58" />
+    <file relUrl="js/nlform.js" publishTime="02/23/2015 22:21:00" />
+    <file relUrl="css/style5.css" publishTime="01/29/2015 20:37:41" />
+    <file relUrl="bin/CaculatorBusinessObject.dll" publishTime="12/04/2016 16:15:59" />
+    <file relUrl="js/text-input.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="js/jquery-2.1.3.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="fonts/font-awesome-4.2.0/css/font-awesome.min.css" publishTime="08/26/2014 17:46:50" />
+    <file relUrl="css/icons.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="css/nlstyle.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="fonts/demoicons/FontAwesome.svg" publishTime="09/29/2013 22:32:58" />
+    <file relUrl="bin/SalaryCaculator.pdb" publishTime="01/30/2017 14:20:22" />
+    <file relUrl="css/component.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="fonts/nlicons/license.txt" publishTime="05/21/2013 16:15:48" />
+    <file relUrl="css/demo.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="css/buttons.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="css/normalize.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="fonts/codropsicons/license.txt" publishTime="05/02/2013 23:43:52" />
+    <file relUrl="fonts/codropsicons/codropsicons.svg" publishTime="05/06/2013 16:45:30" />
+    <file relUrl="bin/CaculatorBusinessObject.pdb" publishTime="12/04/2016 16:15:59" />
+    <file relUrl="fonts/nlicons/nlicons.dev.svg" publishTime="05/21/2013 16:15:48" />
+    <file relUrl="css/table.css" publishTime="01/29/2015 20:48:53" />
+    <file relUrl="fonts/demoicons/license.txt" publishTime="09/29/2013 21:34:42" />
+    <file relUrl="Web.config" publishTime="01/29/2015 19:11:31" />
+    <file relUrl="css/style3.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="js/modernizr.custom.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="js/jquery.number.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="services/SalaryCaculatorService.asmx" publishTime="01/29/2015 20:09:36" />
+    <file relUrl="fonts/demoicons/minicons-webalys.svg" publishTime="09/29/2013 21:24:42" />
+    <file relUrl="js/accounting.js" publishTime="01/29/2015 19:56:19" />
+    <file relUrl="Default.aspx" publishTime="01/01/2017 11:07:45" />
+    <file relUrl="js/classie.js" publishTime="01/29/2015 19:04:25" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\Kien Dang\Desktop\New folder\">
+    <file relUrl="js/borderMenu.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="fonts/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" publishTime="08/26/2014 17:46:50" />
+    <file relUrl="bin/SalaryCaculator.dll" publishTime="09/29/2016 20:35:32" />
+    <file relUrl="fonts/nlicons/nlicons.svg" publishTime="05/21/2013 16:15:48" />
+    <file relUrl="fonts/demoicons/FontAwesome.dev.svg" publishTime="09/29/2013 22:32:58" />
+    <file relUrl="js/nlform.js" publishTime="02/23/2015 22:21:00" />
+    <file relUrl="css/style5.css" publishTime="01/29/2015 20:37:41" />
+    <file relUrl="bin/CaculatorBusinessObject.dll" publishTime="02/23/2015 22:15:55" />
+    <file relUrl="js/text-input.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="js/jquery-2.1.3.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="fonts/font-awesome-4.2.0/css/font-awesome.min.css" publishTime="08/26/2014 17:46:50" />
+    <file relUrl="css/icons.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="css/nlstyle.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="fonts/demoicons/FontAwesome.svg" publishTime="09/29/2013 22:32:58" />
+    <file relUrl="bin/SalaryCaculator.pdb" publishTime="09/29/2016 20:35:32" />
+    <file relUrl="css/component.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="fonts/nlicons/license.txt" publishTime="05/21/2013 16:15:48" />
+    <file relUrl="css/demo.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="css/buttons.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="css/normalize.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="fonts/codropsicons/license.txt" publishTime="05/02/2013 23:43:52" />
+    <file relUrl="Web.config" publishTime="01/29/2015 19:11:31" />
+    <file relUrl="bin/CaculatorBusinessObject.pdb" publishTime="02/23/2015 22:15:55" />
+    <file relUrl="fonts/nlicons/nlicons.dev.svg" publishTime="05/21/2013 16:15:48" />
+    <file relUrl="css/table.css" publishTime="01/29/2015 20:48:53" />
+    <file relUrl="fonts/demoicons/license.txt" publishTime="09/29/2013 21:34:42" />
+    <file relUrl="fonts/codropsicons/codropsicons.svg" publishTime="05/06/2013 16:45:30" />
+    <file relUrl="css/style3.css" publishTime="01/29/2015 19:04:03" />
+    <file relUrl="js/modernizr.custom.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="js/jquery.number.js" publishTime="01/29/2015 19:04:25" />
+    <file relUrl="services/SalaryCaculatorService.asmx" publishTime="01/29/2015 20:09:36" />
+    <file relUrl="fonts/demoicons/minicons-webalys.svg" publishTime="09/29/2013 21:24:42" />
+    <file relUrl="js/accounting.js" publishTime="01/29/2015 19:56:19" />
+    <file relUrl="Default.aspx" publishTime="09/29/2016 19:31:46" />
+    <file relUrl="js/classie.js" publishTime="01/29/2015 19:04:25" />
+  </publishTarget>
+</publishData>

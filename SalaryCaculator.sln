@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryCaculator", "SalaryCaculator\SalaryCaculator.csproj", "{E562A581-4EF3-4066-83F2-B54759854A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaculatorBusinessObject", "CaculatorBusinessObject\CaculatorBusinessObject.csproj", "{F33CCDFC-05E6-4ABF-A4BD-33F8CE13F462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E562A581-4EF3-4066-83F2-B54759854A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E562A581-4EF3-4066-83F2-B54759854A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E562A581-4EF3-4066-83F2-B54759854A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E562A581-4EF3-4066-83F2-B54759854A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33CCDFC-05E6-4ABF-A4BD-33F8CE13F462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33CCDFC-05E6-4ABF-A4BD-33F8CE13F462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33CCDFC-05E6-4ABF-A4BD-33F8CE13F462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33CCDFC-05E6-4ABF-A4BD-33F8CE13F462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
